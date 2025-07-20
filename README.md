@@ -18,11 +18,12 @@ Screenshot
 ![music](image.png)
 
 📦 Features
-Feature	Description
-Add Song:Type a title and click "Add Song" to append it to the playlist
-Next/Previous:Clickable buttons with wrap-around navigation
-Jump to Song:Click any song title to set it as the current song
-Delete Song	:Remove a song and automatically adjust current selection
+
+
+Add Song : Type a title and click "Add Song" to append it to the playlist
+Next/Previous :  buttons with wrap-around navigation
+Jump to Song : Click any song title to set it as the current song
+Delete Song	: Remove a song and automatically adjust current selection
 
 git clone https://github.com/hindu17/Music-playlist.git
 cd music-playlist-app
